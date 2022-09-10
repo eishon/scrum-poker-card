@@ -1,11 +1,11 @@
 {
-    "name": "scrum_poker_card",
-    "short_name": "scrum_poker_card",
+    "name": "Scrum Poker Card",
+    "short_name": "scrum-poker-card",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Poker Card App",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
